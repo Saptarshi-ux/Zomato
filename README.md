@@ -42,7 +42,10 @@ This repository contains the final version of the Zomato Restaurants Network Das
 ---
 
 ## Zomato Restaurant Network Insights: Marketing Report
+###### The report page is:
+<img width="1789" height="814" alt="image" src="https://github.com/user-attachments/assets/ef954608-0cf3-4b76-9c94-23d62804ebf4" />
 
+--
 ### Executive Summary
 This report analyzes Zomato’s restaurant network using key insights from data on restaurant distribution, service availability, customer ratings, cuisine popularity, and pricing trends. The findings highlight potential growth areas, operational gaps, and marketing strategies to enhance Zomato's service reach and consumer engagement.
 
